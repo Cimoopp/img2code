@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+bin/
+build/
+dist/
+.buildozer/
+.pytest_cache/
+*.spec.bak
